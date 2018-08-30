@@ -1,3 +1,6 @@
+# jupyter files
+.ipynb_checkpoints
+
 # ignore config files
 *.ini
 
